@@ -1,0 +1,11 @@
+   .streamlit/secrets.toml
+   kaggle.json
+   .kaggle/
+   __pycache__/
+   *.pyc
+   .env
+   venv/
+  .venv/
+  secrets.toml
+.env
+.env.*
