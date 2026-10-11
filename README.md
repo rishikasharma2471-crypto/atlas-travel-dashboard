@@ -1,8 +1,6 @@
 # Atlas: Travel Risk & Cost Intelligence Dashboard
 
-Atlas helps travelers compare destinations by **safety** and **cost** in one place, and adds a short AI-written summary for the selected country.
-
-Built for **WarriorHack 2.0**.
+Atlas brings safety and cost together in one dashboard, and adds a short AI-written summary for the selected country, so anyone can quickly decide if a destination fits their needs.
 
 ## What it does
 
